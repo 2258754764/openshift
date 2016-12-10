@@ -13,7 +13,7 @@ header("Content-type:text/html;charset=utf-8");
 <br/>
 <a href="test.html">test</a>
 <br/>
-<a href="test1_mysql.php">test1_mysql</a>
+<a href="fetch.php">fetch</a>
 <br/>
 <a href="test1_mysql.php">test1_mysql</a>
 <br/>
